@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Simple Reload",
+  "description": "Reload the active tab on sublime build",
+  "version": "1.0",
+
+  "permissions": [
+    "tabs","nativeMessaging"
+  ],
+  "background": {
+  	"scripts": ["bg.js"]
+  }
+}

@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Google\Chrome\NativeMessagingHosts\com.github.slifin.simple.reload" /ve /t REG_SZ /d "%~dp0manifest.json" /f

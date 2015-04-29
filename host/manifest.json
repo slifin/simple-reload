@@ -1,0 +1,10 @@
+{
+  "name": "com.github.slifin.simple.reload",
+  "description": "Simple Reload",
+  "path": "C:\\Users\\slifin\\Desktop\\simple-reload\\host\\messenger.cmd",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://jpdefeejkjjnkgcegcnpandepoehhndo/",
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}
